@@ -1,0 +1,14 @@
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\bin\Debug\net7.0\backend.exe
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\bin\Debug\net7.0\backend.deps.json
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\bin\Debug\net7.0\backend.runtimeconfig.json
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\bin\Debug\net7.0\backend.dll
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\bin\Debug\net7.0\backend.pdb
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.dll
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\refint\backend.dll
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.pdb
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+F:\Users\User\Documents\GitHub\dotnet-with-angular\backend\obj\Debug\net7.0\ref\backend.dll
